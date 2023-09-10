@@ -1,0 +1,95 @@
+.font_16px {
+  font-size: 16px;
+}
+
+.font_18px {
+  font-size: 18px;
+}
+
+.font_19px {
+  font-size: 19px;
+  color: #640000;
+}
+
+.font_20px {
+  font-size: 20px;
+  color: #640000;
+}  
+
+.font_21px {
+  font-size: 21px;
+  color: #640000;
+}
+
+.font_22px {
+  font-size: 22px;
+  color: #ff0000;
+}
+
+.font_23px {
+  font-size: 23px;
+  color: #0000ff;
+}
+
+.font_23px_dark {
+  font: 23px Comic;
+  color: #000080;
+}
+
+.font_27px {
+  font-size: 27px;
+  color: #640000;
+}
+
+.font_30px {
+  font-size: 30px;
+  color: #0000ff;
+}
+
+.font_32px {
+  font-size: 32px;
+  color: #640000;
+}
+
+.font_48px {
+  font-size: 48px;
+  color: #640000;
+}
+
+div.left {
+  text-align: left;
+}
+
+div.center {
+  text-align: center;
+}
+
+div.right {
+  text-align: right;
+}
+
+.reddit {
+  color: red;
+}
+
+.greenit {
+  color: green;
+}
+
+.blueit {
+  color: blue;
+}
+
+hr.line1 {
+  border-top: 2px solid #800000;
+  width: 80%;
+}
+
+hr.line2 {
+  border-top: 4px solid #800000;
+  width: 74%;
+}
+
+td {
+  vertical-align: top;
+}
