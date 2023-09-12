@@ -1,5 +1,5 @@
 # handley-ancestry
 
-I am a descendant of the Handley family.  This website displays the "family tree" and includes anecdotes concerning significant members of the family, all now deceased.
-
-It is unlikely to interest anyone not related.
+THIS WEBSITE IS IN COURSE OF RE-DEVELOPMENT.
+I am up-grading it from the original 1252 standard to the present UTF-8, always attempting to preserve the appearance.
+Probably it will take until the end of September to finish.
