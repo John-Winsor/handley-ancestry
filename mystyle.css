@@ -1,9 +1,11 @@
 .font_16px {
   font-size: 16px;
+  color: #640000;
 }
 
 .font_18px {
   font-size: 18px;
+  color: #640000;
 }
 
 .font_19px {
@@ -92,4 +94,20 @@ hr.line2 {
 
 td {
   vertical-align: top;
+}
+
+@media only screen and (orientation: portrait) {
+   .img-portrait {
+     display: block;
+     width: 100%;
+     align: center;
+   }
+}
+
+@media only screen and (orientation: landscape) {
+   .text-landscape {
+     display: block;
+     width: 100%;
+     align: center;
+   }
 }
