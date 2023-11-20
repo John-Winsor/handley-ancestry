@@ -96,6 +96,16 @@ td {
   vertical-align: top;
 }
 
+.img-portrait {
+   display: none;
+   width: 100%;
+}
+
+.text-landscape {
+   display: none;
+   width: 100%;
+}
+
 @media only screen and (orientation: portrait) {
    .img-portrait {
      display: block;
