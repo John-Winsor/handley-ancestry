@@ -45,7 +45,7 @@
 
 .font_30px {
   font-size: 30px;
-  color: #0000ff;
+  color: #000000;
 }
 
 .font_32px {
@@ -83,12 +83,12 @@ div.right {
 }
 
 hr.line1 {
-  border-top: 2px solid #800000;
+  border-top: 2px solid #640000;
   width: 80%;
 }
 
 hr.line2 {
-  border-top: 4px solid #800000;
+  border-top: 4px solid #640000;
   width: 74%;
 }
 
